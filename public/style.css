@@ -1,0 +1,71 @@
+#drop_section {
+    width: 45rem;
+    height: 18.75rem;
+    position: fixed;
+    top: 40%;
+    margin-top: -9.375rem;
+    left: 38%;
+    margin-left: -12.5rem;
+}
+
+.content, #dropzone_form {
+    height: 18.75rem;
+}
+
+#dropzone_form {
+    cursor: pointer;
+    border: 2px dashed #004050;
+    border-radius: 5px;
+}
+
+.dropzone .dz-message {
+    text-align: center;
+    margin: 4em 0;
+    color: #646C7F;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.dropzone .dz-preview:hover {
+    z-index: 1000;
+}
+
+.dropzone .dz-preview {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    margin: 16px;
+    min-height: 100px;
+}
+
+.dropzone * {
+    box-sizing: border-box;
+}
+
+.footer {
+    position: fixed;
+    height: 80px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.footer-title {
+    color: #f9f9f9;
+    font-size: 20px;
+}
+
+.footer-credits {
+    color: #f9f9f9;
+    font-size: 15px;
+    right: 50px;
+}
+
+#quota {
+    margin-right: 10px;
+}
+
+#button_group {
+    margin-top: 10px;
+}
