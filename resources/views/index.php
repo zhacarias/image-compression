@@ -23,7 +23,7 @@
     </div>
     <div class="footer bg-steel">
         <span class="footer-title">
-            2017 <span class="mif-copyright"></span> SM Retail, Inc. - ITS HOBS Enterprise
+            2017 <span class="mif-copyright"></span> Mark Kirshner Chico
         </span>
         <br><br>
         <span class="footer-credits">
