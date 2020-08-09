@@ -14,7 +14,7 @@ class ImageController extends Controller
 
     private $base_path;
     
-    private $api_key = '2_X26oPpFBF7OMIl6kjWoAKQYCibpsdI';
+    private $api_key = env('API_KEY');
 
     /**
      * Create a new controller instance.
