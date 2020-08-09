@@ -11,7 +11,8 @@
         "tinify/tinify": "^1.5",
         "barryvdh/laravel-debugbar": "^2.3",
         "alchemy/zippy": "^0.4.8",
-        "katzgrau/klogger": "dev-master"
+        "katzgrau/klogger": "dev-master",
+		"symfony/http-foundation": "3.4.35"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
